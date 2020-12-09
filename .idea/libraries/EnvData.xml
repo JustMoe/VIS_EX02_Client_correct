@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EnvData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../EnvData/out/artifacts/EnvData_jar/EnvData.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
